@@ -1,0 +1,22 @@
+{
+  "wheel_id": 955,
+  "structure": "umbrella",
+  "slug": "brisbanerenovation-160",
+  "project": "renovation-builders-brisbane-quotes-explained-34ad0164b3f0f49b5",
+  "parent_t1_ref": "brisbanerenovation-014",
+  "node_role": "buffer",
+  "money_target": "brisbanerenovation.com.au",
+  "primary_kw": "renovation builders brisbane quotes explained",
+  "intended_url": "https://aumedia.neocities.org/renovation-builders-brisbane-quotes-explained-34ad0164b3f0f49b5/",
+  "tier": "T2",
+  "writeback_nonce": "b60ec3cca8533fc3",
+  "links": [
+    {
+      "target_url": "https://cloudsites-hub.pages.dev/sites-01/renovation-builders-brisbane-014/",
+      "anchor": "Renovation Builders Brisbane: A Practical Homeowner Guide",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "topical"
+    }
+  ]
+}
